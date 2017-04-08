@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_7ae78aa93173cecae75c4f9897c8fe6112b993b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_44474d077c77eeab4aafcd4fd720ff9cac71330f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_4844a4a01a82097fc619386bb9f3eff67ca00f9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_9998c04e486822e64a0544081351b2f4d97d9db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_531dfdfbe8c5243d20808c08d01332e0e1a63aea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_76acf3fac29f2470ab3248af8cab3bee9a3e1d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_d65eadeb86a9fcdb07a4106451b03a02003fdeff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="300be8940cc81b2aac082ba0162fe4a03991d95b">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7c0aef1f7492b0bc9a9c7e2613c47ac67c8c5952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45706ab0e0774ec76f1aef70f6100591e09b5e56">
+        <dex dex="C:\Users\chauh\AndroidStudioProjects\tripPlanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cb35fac35be28531c03acd93baa173aed7d0d72b\classes.dex" />
+    </item>
+
+</items>
